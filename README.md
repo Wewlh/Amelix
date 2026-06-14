@@ -31,7 +31,7 @@ This project is a developer portfolio demonstration showcasing asynchronous OS i
 - A Discord Bot Token (with Message Content Intent enabled in the Discord Developer Portal)
 
 ### 1. Clone the Repository
-  git clone [https://github.com/Wewlhh/Amelix.git](https://github.com/Wewlh/Amelix.git)
+  git clone https://github.com/Wewlh/Amelix.git
   cd Amelix
 
 ### 2. Install Dependencies
